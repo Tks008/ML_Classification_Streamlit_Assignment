@@ -3,16 +3,14 @@
 
 **Student Name:** TUSHAR KANTI SANTRA  
 **Student ID:** 2025AB05283  
-**Date:** February 2026
+**Date:** 15-FEB-2026
 
 **GitHub Repository:** [Your GitHub Link]  
 **Live Streamlit App:** [Your Streamlit Link]
 
 ---
 
-## 🎯 Problem Statement
-
-## 🎯 Problem Statement
+## Problem Statement
 
 The goal of this project is to predict whether an individual's annual income exceeds $50,000 based on census data from 1994. This is a binary classification problem with significant real-world applications in:
 
@@ -31,7 +29,7 @@ This project trains and compares 6 different machine learning algorithms to find
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 **Dataset Name:** Adult Income (Census Income)  
 **Source:** UCI Machine Learning Repository  
